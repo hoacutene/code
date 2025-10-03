@@ -28,6 +28,5 @@ public class Ngay {
     public void setNam(int nam) {
         this.nam = nam;
     }
-
-
 }
+hello hoa
